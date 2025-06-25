@@ -6,7 +6,7 @@ I'm Mouaz a fullstack developer ([🔗](https://en.life-in-germany.de/becoming-a
 -   Create modern web apps using Next.js, TypeScript, Node.js and React.
 -   Translate designs and ideas into responsive, user-friendly interfaces.
 -   Create well-documented REST APIs with Hono/Node.js for web and mobile applications.
--   Create blogs and landing pages for small businesses & startups using modern WordPress themes.
+-   Create blogs and landing pages for small businesses & startups using WordPress or other CMS.
 -   Keep up with SEO best practices to improve website visibility on search engines (Google, Bing, etc.).
 
 ### 🔭 I’m currently working on
