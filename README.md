@@ -1,10 +1,10 @@
 ## Mouaz Aldakkak -  Software Engineer | Fullstack Developer 👋
-I'm a software engineering graduate (IHK Leipzig-certified) with 4+ years of experience in web development (Next.js, React.js, TypeScript). I also have hands-on experience in Node.js, ORM, LLMs, SQL and database design, and building APIs.
+I'm Mouaz a fullstack developer ([🔗](https://en.life-in-germany.de/becoming-a-software-engineer-in-germany/#Getting_Software_Engineers_Education_and_Qualifications_in_Germany) IHK certified) based in germany, with 4+ years of experience in web development (Next.js, React.js, TypeScript). I also have hands-on experience in Node.js, ORM, LLMs, SQL and database design, and building APIs.
 
 ### What I do:
 
--   Create modern web apps using Next.js, TypeScript, and React.js.
--   Transform designs and ideas into responsive, user-friendly interfaces.
+-   Create modern web apps using Next.js, TypeScript, Node.js and React.
+-   Translate designs and ideas into responsive, user-friendly interfaces.
 -   Create well-documented REST APIs with Hono/Node.js for web and mobile applications.
 -   Create blogs and landing pages for small businesses & startups using modern WordPress themes.
 -   Keep up with SEO best practices to improve website visibility on search engines (Google, Bing, etc.).
