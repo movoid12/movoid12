@@ -45,6 +45,6 @@ I'm a software engineering graduate (IHK Leipzig-certified) with 4+ years of exp
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
 
-#### Github stats  
+## ⚡ Github Stats  
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=movoid12&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=movoid12&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
