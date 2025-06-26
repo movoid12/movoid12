@@ -18,10 +18,9 @@ I'm Mouaz a fullstack developer ([🔗](https://en.life-in-germany.de/becoming-a
 
 ### 📫 How to reach me
 
-<a href="https://www.linkedin.com/in/mouaz-a-45b17280/"
-	>![LinkedIn](https://skillicons.dev/icons?i=linkedin)</a>
+<a target="_blank" href="https://www.linkedin.com/in/mouaz-a-45b17280/">![LinkedIn](https://skillicons.dev/icons?i=linkedin)</a>
 
-## ⚡ Tech stack:
+### ⚡ Tech stack:
 
 [![skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,nodejs,nextjs,vite,react,bootstrap,css,html,hono,aws,cloudflare,postgres,git,docker,vscode,github,gitlab&perline=10&theme=light)](https://skillicons.dev)
 
@@ -37,7 +36,6 @@ I'm Mouaz a fullstack developer ([🔗](https://en.life-in-germany.de/becoming-a
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=flat&logo=amazons3&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white)
-
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=flat&logo=tRPC&logoColor=white)
