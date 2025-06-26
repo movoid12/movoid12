@@ -16,10 +16,6 @@ I'm Mouaz a fullstack developer ([🔗](https://en.life-in-germany.de/becoming-a
 ### 🌱 I’m currently learning
   -  "Learning AI with Visulaization" / Columbia University (Online Course)
 
-### 📫 How to reach me
-
-<a target="_blank" href="https://www.linkedin.com/in/mouaz-a-45b17280/">![LinkedIn](https://skillicons.dev/icons?i=linkedin)</a>
-
 ### ⚡ Tech stack:
 
 [![skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,nodejs,nextjs,vite,react,bootstrap,css,html,hono,aws,cloudflare,postgres,git,docker,vscode,github,gitlab&perline=10&theme=light)](https://skillicons.dev)
