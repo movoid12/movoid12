@@ -10,11 +10,14 @@ I'm Mouaz a fullstack developer ([🔗](https://en.life-in-germany.de/becoming-a
 -   Keep up with SEO best practices to improve website visibility on search engines (Google, Bing, etc.).
 
 ### 🔭 I’m currently working on
-  - Noteslify: Notes App using Next.js, React,  and Drizzle ORM
+  - Noteslify: Notes App using Next.js, React, tRPC, PostgreSQL and Drizzle ORM
   - E-Commerce Online-Shop (in progress)
 
 ### 🌱 I’m currently learning
-  -  "Learning AI with Visulaization" / Columbia University (Online Course)
+  -  Back End Development and APIs with Node.js and Express.js / freeCodeCamp (Online Course)
+
+### ✅ Done
+  - "Learning AI with Visulaization" / Columbia University (Online Course)
 
 ### ⚡ Tech stack:
 
