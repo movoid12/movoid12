@@ -13,12 +13,6 @@ I'm Mouaz a fullstack developer ([🔗](https://en.life-in-germany.de/becoming-a
   - Noteslify: Notes App using Next.js, React, tRPC, PostgreSQL and Drizzle ORM
   - E-Commerce Online-Shop (in progress)
 
-### 🌱 I’m currently learning
-  -  Back End Development and APIs with Node.js and Express.js / freeCodeCamp (Online Course)
-
-### ✅ Done
-  - "Learning AI with Visulaization" / Columbia University (Online Course)
-
 ### ⚡ Tech stack:
 
 [![skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,nodejs,nextjs,vite,react,bootstrap,css,html,hono,aws,cloudflare,postgres,git,docker,vscode,github,gitlab&perline=10&theme=light)](https://skillicons.dev)
