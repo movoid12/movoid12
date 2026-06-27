@@ -3,15 +3,16 @@ I'm Mouaz a fullstack developer ([🔗](https://en.life-in-germany.de/becoming-a
 
 ### What I do:
 
--   Create modern web apps using Next.js, TypeScript, Node.js and React.
+-   Create modern web apps using AWS, GCP, Docker, Next.js, TypeScript, Node.js, and React.
 -   Translate designs and ideas into responsive, user-friendly interfaces.
 -   Create well-documented REST APIs with Hono/Node.js for web and mobile applications.
 -   Create blogs and landing pages for small businesses & startups using WordPress or other CMS.
 -   Keep up with SEO best practices to improve website visibility on search engines (Google, Bing, etc.).
 
 ### 🔭 I’m currently working on
+  - Quiz-my-PDF: App to generate and take quizzes from your PDF files (in all Languages) using Generative AI
   - Noteslify: Notes App using Next.js, React, tRPC, PostgreSQL and Drizzle ORM
-  - E-Commerce Online-Shop (in progress)
+  - E-Commerce Online-Shop (in planning)
 
 ### ⚡ Tech stack:
 
