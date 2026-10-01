@@ -1,5 +1,5 @@
-## Mouaz Aldakkak -  Software Engineer | Fullstack Developer 👋
-I'm Mouaz a fullstack developer ([🔗](https://en.life-in-germany.de/becoming-a-software-engineer-in-germany/#Getting_Software_Engineers_Education_and_Qualifications_in_Germany) IHK certified) based in germany, with 5+ years of experience in web development (Node.js, Next.js, React, TypeScript). I also have hands-on experience in AWS, DevOps, ORM, LLMs, NoSQL/SQL and database design, and building APIs.
+### Mouaz Aldakkak -  Software Engineer 👋
+I'm Mouaz a fullstack developer (IHK certified [🔗](https://www.ihk.de/osnabrueck/en/productlabels/training/voctrain-1076372)) based in germany, with 5+ years of experience in software development (Node.js, Next.js, React, TypeScript). I also have hands-on experience in AWS, DevOps, ORM, LLMs, Elasticsearch, NoSQL/SQL and database design, and building APIs.
 
 ### What I do:
 
